@@ -1,6 +1,6 @@
 ﻿using System.Windows.Input;
 
-namespace DistanceCalculator
+namespace DistanceCalculator.Commands
 {
     /// <summary>
     /// Реализация интерфейса ICommand для упрощения создания команд.

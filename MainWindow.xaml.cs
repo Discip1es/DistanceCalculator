@@ -1,5 +1,5 @@
-﻿using MahApps.Metro.Controls;
-using DistanceCalculator.ViewModels;
+﻿using DistanceCalculator.ViewModels;
+using MahApps.Metro.Controls;
 
 namespace DistanceCalculator
 {
