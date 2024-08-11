@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: DistanceCalculator.Views
+  commentId: N:DistanceCalculator.Views
+  id: DistanceCalculator.Views
+  children:
+  - DistanceCalculator.Views.ViewModelBase
+  langs:
+  - csharp
+  - vb
+  name: DistanceCalculator.Views
+  nameWithType: DistanceCalculator.Views
+  fullName: DistanceCalculator.Views
+  type: Namespace
+  assemblies:
+  - DistanceCalculator
+references:
+- uid: DistanceCalculator.Views.ViewModelBase
+  commentId: T:DistanceCalculator.Views.ViewModelBase
+  href: DistanceCalculator.Views.ViewModelBase.html
+  name: ViewModelBase
+  nameWithType: ViewModelBase
+  fullName: DistanceCalculator.Views.ViewModelBase

@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: DistanceCalculator.Commands
+  commentId: N:DistanceCalculator.Commands
+  id: DistanceCalculator.Commands
+  children:
+  - DistanceCalculator.Commands.RelayCommand
+  langs:
+  - csharp
+  - vb
+  name: DistanceCalculator.Commands
+  nameWithType: DistanceCalculator.Commands
+  fullName: DistanceCalculator.Commands
+  type: Namespace
+  assemblies:
+  - DistanceCalculator
+references:
+- uid: DistanceCalculator.Commands.RelayCommand
+  commentId: T:DistanceCalculator.Commands.RelayCommand
+  href: DistanceCalculator.Commands.RelayCommand.html
+  name: RelayCommand
+  nameWithType: RelayCommand
+  fullName: DistanceCalculator.Commands.RelayCommand
