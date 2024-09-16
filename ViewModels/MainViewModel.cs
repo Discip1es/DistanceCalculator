@@ -83,7 +83,7 @@ namespace DistanceCalculator.ViewModels
         /// <returns>Список городов.</returns>
         private ObservableCollection<City> LoadCities()
         {
-            var json = File.ReadAllText("./data/cities.json");
+            var json = File.ReadAllText("./Data/cities.json");
             return JsonConvert.DeserializeObject<ObservableCollection<City>>(json);
         }
 
